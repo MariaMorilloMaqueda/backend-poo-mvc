@@ -3,8 +3,11 @@ Este proyecto es una práctica de programación orientada a objetos (POO) en PHP
 El proyecto consiste en un listado de libros almacenados en una base de datos MySQL. Desde la aplicación es posible:
 
 📖 Visualizar el listado de libros.
+
 🔀 Ordenar los registros por diferentes criterios.
+
 ➕ Añadir un nuevo libro a la base de datos.
+
 🗑️ Eliminar libros existentes.
 
 🚀 Objetivos del proyecto
