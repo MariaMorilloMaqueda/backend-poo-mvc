@@ -1,0 +1,20 @@
+{
+    "name": "maria/dwes04",
+    "description": "Mi primer proyecto con Composer en XAMPP.",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Dwes04\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "María Morillo"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "smarty/smarty": "4.5.5"
+    }
+}
