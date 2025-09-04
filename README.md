@@ -29,7 +29,7 @@ git clone https://github.com/MariaMorilloMaqueda/backend-poo-mvc.git
 2. Instalar dependencias con Composer (si corresponde):
 composer install
 
-3. Importar la base de datos en MySQL (ejecutar el script .sql incluido en el proyecto).
+3. Importar la base de datos en MySQL (script .sql incluido en el proyecto).
 4. Colocar el proyecto dentro de la carpeta htdocs de XAMPP.
 5. Iniciar Apache y MySQL desde el panel de XAMPP.
 
